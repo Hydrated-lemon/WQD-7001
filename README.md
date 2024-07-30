@@ -10,7 +10,9 @@ This repository contains the code and resources for the project "Classification 
 
 -`deploy.py`: Python Scripts for Data Product.
 
--`GNB_model.sav`**: Selected Model for Deployment.
+-`GNB_model.sav`: Selected Model for Deployment.
+
+-`diabetes.csv`: Dataset.
 
 
 ## Project Background
