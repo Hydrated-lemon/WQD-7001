@@ -2,15 +2,15 @@
 
 This repository contains the code and resources for the project "Classification and Prediction of Diabetes" conducted by Group 9 for the WQD7001: Principles of Data Science course at the University of Malaya.
 
-## Documents
+## Files
 
--**WQD7001_Diabetes_Prediction.ipynb**: Python Notebook.
+-`WQD7001_Diabetes_Prediction.ipynb`: Python Notebook.
 
--**Report_1 & Report_2**: Written Reports.
+-`Report_1` & `Report_2`: Written Reports.
 
--**deploy.py**: Python Scripts for Data Product.
+-`deploy.py`: Python Scripts for Data Product.
 
--**GNB_model.sav**: Selected Model for Deployment.
+-`GNB_model.sav`**: Selected Model for Deployment.
 
 
 ## Project Background
