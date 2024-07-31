@@ -6,7 +6,7 @@ This repository contains the code and resources for the project "Classification 
 
 -`WQD7001_Diabetes_Prediction.ipynb`: Python Notebook.
 
--`Report_1` & `Report_2`: Written Reports.
+-`Report_1.pdf` & `Report_2.pdf`: Written Reports.
 
 -`deploy.py`: Python Scripts for Data Product.
 
